@@ -1,0 +1,25 @@
+{
+  "name": "split-with-continuation",
+  "version": "1.0.0",
+  "description": "Split the input with a custom newline and continuation character",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redyetidev/split-with-continuation.git"
+  },
+  "keywords": [
+    "split",
+    "continue",
+    "newline",
+    "continuation"
+  ],
+  "author": "RedYetiDev <redyetidev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redyetidev/split-with-continuation/issues"
+  },
+  "homepage": "https://github.com/redyetidev/split-with-continuation#readme"
+}
