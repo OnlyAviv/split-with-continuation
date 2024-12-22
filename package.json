@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onlyaviv/split-with-continuation.git"
+    "url": "git+https://github.com/avivkeller/split-with-continuation.git"
   },
   "keywords": [
     "split",
@@ -16,10 +16,10 @@
     "newline",
     "continuation"
   ],
-  "author": "Aviv Keller <hello@onlyaviv.com>",
+  "author": "Aviv Keller",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/onlyaviv/split-with-continuation/issues"
+    "url": "https://github.com/avivkeller/split-with-continuation/issues"
   },
-  "homepage": "https://github.com/onlyaviv/split-with-continuation#readme"
+  "homepage": "https://github.com/avivkeller/split-with-continuation#readme"
 }
